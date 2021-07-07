@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clerance</h1>
 <h3 align="center">18 years junior developer from Turkey</h3>
 
-- 🤝 I’m looking for help with [Stalk.live](stalk.live)
+- 🤝 I’m looking for help with [Stalk.live](https://stalk.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
