@@ -3,6 +3,8 @@
 
 • a.k.a berke
 
+<img src="https://komarev.com/ghpvc/?username=clerancebae&label=Ziyaretçi%20Sayısı&color=552b75" alt="clerancebae" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
      <a href="https://www.instagram.com/clerancebae" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
