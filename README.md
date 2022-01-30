@@ -9,7 +9,7 @@
 <p align="left">
      <a href="https://www.instagram.com/clerancebae" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://open.spotify.com/user/21pc7okfoaufu2gztbrzbjqkq" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-      <a href="https://discord.com/users/419836743878180874" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+      <a href="https://discord.com/users/419836743878180874" target"blank_"><img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
 
