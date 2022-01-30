@@ -10,8 +10,8 @@
  
 
  <p align="center"> 
- <img src="http://github-readme-streak-stats.herokuapp.com?user=okorkov&theme=highcontrast&hide_border=true">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&count_private=true&theme=highcontrast"> -->
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=clerancebae&show_icons=true&count_private=true&theme=highcontrast"> -->
  </p>
 
 
@@ -23,7 +23,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L_400x400.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.photoshop.com/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/>
-</a> 
-<a href="https://www.https://isocpp.org" target="_blank"> <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="cpps" width="40" height="40"/>
-     </a> </p>
+ </a> 
+ <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html5" width="40" height="40"/></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr" target="_blank"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="40" height="40"/></a>
+ <a href="https://www.javascript.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L_400x400.jpg" alt="javascript" width="40" height="40"/></a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/> </a> 
+ <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.photoshop.com/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/></a> 
+<a href="https://www.https://isocpp.org" target="_blank"> <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="cpp" width="40" height="40"/></a>
+<a href="https://dashboard.heroku.com" target="_blank"> <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="heroku" width="40" height="40"/></a>
+     
+     </p>
