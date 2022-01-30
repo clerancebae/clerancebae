@@ -3,7 +3,7 @@
 
 • a.k.a berke
 
-<img src="https://komarev.com/ghpvc/?username=clerancebae&label=Ziyaretçi%20Sayısı&color=552b75" alt="clerancebae" />
+<img src="https://komarev.com/ghpvc/?username=clerancebae&label=Visitor%20Count&color=552b75" alt="clerancebae" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
