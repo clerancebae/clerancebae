@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clerance</h1>
 <h3 align="center">18 years junior developer from Turkey</h3>
 
-• a.k.a berke
+• a.k.a berke\n
 • KOU Computer programming
 
 <img src="https://komarev.com/ghpvc/?username=clerancebae&label=Visitor%20Count&color=552b75" alt="clerancebae"/>
