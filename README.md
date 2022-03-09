@@ -2,19 +2,7 @@
 <h3 align="center">18 years junior developer from Turkey</h3>
 
 • a.k.a berke
-</head><body>
-<div id="content">
-  <div id=typewriter></div>
-  <script src="https://cdn.jsdelivr.net/gh/tameemsafi/typewriterjs/dist/core.js"></script>
-  <script type="text/javascript">
-    const instance = new Typewriter('#typewriter', {
-      strings: 'berke',
-      delay: '15',
-      autoStart: true,
-    });
-  </script>
- 
-</div></body>
+
 <img src="https://komarev.com/ghpvc/?username=clerancebae&label=Visitor%20Count&color=552b75" alt="clerancebae"/>
 <p align="center"> 
  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?clerancebae"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerancebae&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
