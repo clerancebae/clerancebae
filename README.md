@@ -2,6 +2,7 @@
 <h3 align="center">18 years junior developer from Turkey</h3>
 
 • a.k.a berke
+• KOU Computer programming
 
 <img src="https://komarev.com/ghpvc/?username=clerancebae&label=Visitor%20Count&color=552b75" alt="clerancebae"/>
 <p align="center"> 
