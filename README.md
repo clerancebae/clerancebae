@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Clerance</h1>
+# Hi 👋, I'm Clerance
 
 Hi,my name is Berke and I'm 19. I interested in software 2 years currently i studying at KMYO computer programming program.
 
