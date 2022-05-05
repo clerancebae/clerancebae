@@ -22,14 +22,14 @@
  </p>
 
 
-<h3 align="center">Contact with me:</h3>
+## Contact with me:
 <p align="center">
      <a href="https://www.instagram.com/clerancebae" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://open.spotify.com/user/21pc7okfoaufu2gztbrzbjqkq" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
       <a href="https://discord.com/users/419836743878180874" target"blank_"><img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-<h3 align="center">Languages and Tools I'm Interested In:</h3>
+## Languages and Tools I'm Interested In:
 <p align="center">
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html5" width="40" height="40"/></a>
