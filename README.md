@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clerance</h1>
-<h3 align="center">18 years junior developer from Turkey</h3>
 
-• a.k.a berke
-
-• KOU Computer programming
+Hi,my name is Berke and I'm 19. I interested in software 2 years currently i studying at KMYO computer programming program.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=clerancebae&color=blue" alt="clerancebae"/>
