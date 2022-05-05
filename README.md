@@ -29,7 +29,7 @@
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html5" width="40" height="40"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr" target="_blank"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="40" height="40"/></a>
- <a href="https://www.javascript.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L_400x400.jpg" alt="javascript" width="40" height="40"/></a> 
+ <a href="https://www.javascript.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="40" height="40"/></a> 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.photoshop.com/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
