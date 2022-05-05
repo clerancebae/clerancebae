@@ -6,7 +6,7 @@
 • KOU Computer programming
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=clerancebae&label=Visitor%20Count&color=552b75" alt="clerancebae"/>
+<img src="https://komarev.com/ghpvc/?username=clerancebae&color=blue" alt="clerancebae"/>
 <br>
   
 
