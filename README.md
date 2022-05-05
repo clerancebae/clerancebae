@@ -7,6 +7,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=clerancebae&label=Visitor%20Count&color=552b75" alt="clerancebae"/>
 <p align="center"> 
+
+
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/419836743878180874?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/419836743878180874)
+ 
  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?clerancebae"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerancebae&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
  </p>
  
