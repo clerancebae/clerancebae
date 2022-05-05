@@ -8,6 +8,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=clerancebae&label=Visitor%20Count&color=552b75" alt="clerancebae"/>
 
+  
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/419836743878180874)](https://discord.com/users/419836743878180874)
  
