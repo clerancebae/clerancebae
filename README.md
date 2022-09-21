@@ -1,6 +1,6 @@
 # Hi 👋, I'm Clerance
 
-Hi, my name is Berke and I'm 18. I interested in software 2 years currently i studying at KMYO computer programming program.
+Hi, my name is Berke and I'm 19. I interested in software 2 years currently i studying at KMYO computer programming program.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=clerancebae&color=blue" alt="clerancebae"/>
