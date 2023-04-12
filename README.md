@@ -60,15 +60,15 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
     <br>
     <br>
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png?20221004110509" />
-    <img width="30px" src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue-thumbnail.png" />
+    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095769344719462461/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3633312f3732302f706e672d7472616e73706172656e742d65636c697073652d666f756e646174696f6e2d696e74656772617465642d646576656c6f706d656e742d656e7669726f.png" />
     <img width="30px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_CE_256_2Qe5uEl.png"/>
   </kbd>
   <kbd>
     <kbd>🔧</kbd>
     <br>
     <br>
-        <img width="30px" src="https://p1.hiclipart.com/preview/981/101/302/sleek-xp-software-dev-c-icon.jpg" />
-    <img width="30px" src="https://w7.pngwing.com/pngs/832/386/png-transparent-intellij-webstorm-macos-bigsur-icon.png" />
+        <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095769345017262151/68747470733a2f2f70312e6869636c69706172742e636f6d2f707265766965772f3938312f3130312f3330322f736c65656b2d78702d736f6674776172652d6465762d632d69636f6e2e6a7067-removebg-preview.png" />
+    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095769345252131011/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3833322f3338362f706e672d7472616e73706172656e742d696e74656c6c696a2d77656273746f726d2d6d61636f732d6269677375722d69636f6e2e706e67-removebg-preview.png" />
     <img width="30px" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" />
   </kbd>
    <br>
