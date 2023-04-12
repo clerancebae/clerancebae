@@ -10,18 +10,13 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
   [![Discord Presence](https://lanyard.cnrad.dev/api/419836743878180874)](https://discord.com/users/419836743878180874)
   <br>
  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?clerancebae"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clerancebae&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
+<br>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
 </div>
  
-
- <p align="center"> 
- <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
-  <br>  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21pc7okfoaufu2gztbrzbjqkq&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=clerancebae&show_icons=true&count_private=true&theme=highcontrast"> -->
-  <br>
- </p>
-
- 
-
+ <p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21pc7okfoaufu2gztbrzbjqkq&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
 
 
 ## 📞 Contact with me:
