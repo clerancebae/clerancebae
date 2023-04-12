@@ -54,7 +54,7 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
     <br>
     <br>
     <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095765931218698311/5847f5bdcef1014c0b5e489c.png" />
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095766310631247882/5847f5bdcef1014c0b5e489c-removebg-preview_1.png" />
+    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095765930992218193/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f637373332d6c6f676f2d383732343037353237342d7365656b6c6f676f2e636f6d2e706e67.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" />
     <img width="30px" src="https://nodejs.org/static/images/logo.svg" />
   </kbd>
