@@ -83,8 +83,8 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
     <kbd>🛢</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
-    <img width="30px" src="https://camo.githubusercontent.com/c0433d458322163ec6f1f9ba02ba0f29f723cff25b5420955b241715f09ec95c/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3434342f3438342f706e672d7472616e73706172656e742d6d7973716c2d64617461626173652d656e63617073756c617465642d706f73747363726970742d6c6f676f2d6a71756572792d626c75652d746578742d6c6f676f2d7468756d626e61696c2e706e67" />
+    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095766895237550203/image_2023-04-12_204606130-removebg-preview.png" />
+    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767037072126043/image_2023-04-12_204638775-removebg-preview.png" />
   </kbd>
    <br>
   <kbd>
