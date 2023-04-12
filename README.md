@@ -74,8 +74,12 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png?20221004110509" />
     <img width="30px" src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue-thumbnail.png" />
     <img width="30px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_CE_256_2Qe5uEl.png"/>
-    
-    <img width="30px" src="https://p1.hiclipart.com/preview/981/101/302/sleek-xp-software-dev-c-icon.jpg" />
+  </kbd>
+  <kbd>
+    <kbd>🔧</kbd>
+<br>
+    <br>
+        <img width="30px" src="https://p1.hiclipart.com/preview/981/101/302/sleek-xp-software-dev-c-icon.jpg" />
     
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
     
@@ -83,6 +87,7 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
   </kbd>
   <kbd>
     <kbd>🖥</kbd>
+    <br>
     <br>
     <img width="30px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-photoshop-imore-0.png" />
   </kbd>
