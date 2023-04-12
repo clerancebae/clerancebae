@@ -80,11 +80,9 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
     
     <img width="30px" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" />
-    
   </kbd>
   <kbd>
     <kbd>🖥</kbd>
-    <br>
     <br>
     <img width="30px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-photoshop-imore-0.png" />
   </kbd>
