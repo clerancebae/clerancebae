@@ -28,7 +28,7 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
 ## 📞 Contact with me:
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>💻</kbd>
+    <kbd>📞 Contacts </kbd>
     <br>
     <br>
 <a href="https://www.instagram.com/clerancebae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clerancebae" height="30" width="40" /></a>
