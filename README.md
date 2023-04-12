@@ -11,11 +11,11 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
   <br>
 </div>
  
- <p aling="center">
+ <div aling="center">
    <a href="https://ionicabizau.github.io/github-profile-languages/api.html?clerancebae"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clerancebae&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
 <br>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
-</p>
+</div>
  <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21pc7okfoaufu2gztbrzbjqkq&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
