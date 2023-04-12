@@ -76,14 +76,14 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
     <kbd>⚙️</kbd>
     <br>
     <br>
-    <img width="30px" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" />
+    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767682630037645/18133-removebg-preview.png" />
     <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767256778153995/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f482f6865726f6b752d6c6f676f2d423737344137383636372d7365656b6c6f676f2e636f6d2e706e67.png" />
   </kbd>
    <kbd>
     <kbd>🛢</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767682630037645/18133-removebg-preview.png" />
+    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095766895237550203/image_2023-04-12_204606130-removebg-preview.png" />
     <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767037072126043/image_2023-04-12_204638775-removebg-preview.png" />
   </kbd>
    <br>
