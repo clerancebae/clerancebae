@@ -9,9 +9,7 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/419836743878180874)](https://discord.com/users/419836743878180874)
   <br>
-</div>
  
- <div aling="center">
    <a href="https://ionicabizau.github.io/github-profile-languages/api.html?clerancebae"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clerancebae&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
 <br>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
