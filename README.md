@@ -77,7 +77,7 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
   </kbd>
   <kbd>
     <kbd>🔧</kbd>
-<br>
+    <br>
     <br>
         <img width="30px" src="https://p1.hiclipart.com/preview/981/101/302/sleek-xp-software-dev-c-icon.jpg" />
     
