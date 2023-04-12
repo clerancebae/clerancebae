@@ -33,17 +33,68 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
 <a href="https://discord.com/users/419836743878180874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clerancebae" height="30" width="40" /></a>
 </p>
 
-## 💻 Languages and Tools I'm Interested In:
-<p align="center">
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html5" width="40" height="40"/></a>
-<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"/></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr" target="_blank"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="40" height="40"/></a>
- <a href="https://www.javascript.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="40" height="40"/></a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.photoshop.com/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/></a> 
-<a href="https://www.https://isocpp.org" target="_blank"> <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="cpp" width="40" height="40"/></a>
-<a href="https://dashboard.heroku.com" target="_blank"> <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="heroku" width="40" height="40"/></a>
-     </p>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>💻</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
+    <img width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /> 
+    <img width="30px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" /> 
+    <img width="30px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
+  </kbd>
+  <kbd>
+    <kbd>🌐</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" />
+    <img width="30px" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" />
+    <img width="30px" src="https://nodejs.org/static/images/logo.svg" />
+  </kbd>
+  <kbd>
+    <kbd>🛢</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
+    <img width="30px" src="https://camo.githubusercontent.com/c0433d458322163ec6f1f9ba02ba0f29f723cff25b5420955b241715f09ec95c/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3434342f3438342f706e672d7472616e73706172656e742d6d7973716c2d64617461626173652d656e63617073756c617465642d706f73747363726970742d6c6f676f2d6a71756572792d626c75652d746578742d6c6f676f2d7468756d626e61696c2e706e67" />
+  </kbd>
+  <br>
+  <kbd>
+    <kbd>Apps</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>⚙️</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" />
+    <img width="30px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
+  </kbd>
+  <kbd>
+    <kbd>🔧</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png?20221004110509" />
+    <img width="30px" src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue-thumbnail.png" />
+    <img width="30px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_CE_256_2Qe5uEl.png">
+    
+    <img width="30px" src="https://p1.hiclipart.com/preview/981/101/302/sleek-xp-software-dev-c-icon.jpg" />
+    
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
+    
+    <img width="30px" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" />
+    
+  </kbd>
+  <kbd>
+    <kbd>🖥</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-photoshop-imore-0.png" />
+  </kbd>
+</p>
+
