@@ -49,7 +49,7 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
     <kbd>🌐</kbd>
     <br>
     <br>
-    <img width="30px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" />
+    <img width="30px" src="https://icon2.cleanpng.com/20180426/zue/kisspng-web-development-html-responsive-web-design-cascadi-5ae19e6b1412f6.0023511515247355950822.jpg" />
     <img width="30px" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" />
     <img width="30px" src="https://nodejs.org/static/images/logo.svg" />
