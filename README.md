@@ -32,7 +32,9 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
 <a href="https://open.spotify.com/artist/6CGsPYgRSVWoUeoH0rWaZx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="clerancebae" height="30" width="40" /></a>
 <a href="https://discord.com/users/419836743878180874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clerancebae" height="30" width="40" /></a>
 </p>
-## 💻 Languages and Tools I'm Interested In::
+
+## 💻 Languages and Tools I'm Interested In:
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>💻</kbd>
