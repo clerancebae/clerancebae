@@ -18,7 +18,6 @@ Hi, my name is Berke and I'm 19. I interested in software 2 years currently im s
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=clerancebae&show_icons=true&count_private=true&theme=highcontrast"> -->
   <br>
  </p>
-  |![spotify-github-profile](https://readme-now-playing.vercel.app/now-playing/q?uid=bwygdf3k5na8cdy8ek3ofoteq&size=large&theme=colorblock&bar=waves)|
 
 
 ## 📞 Contact with me:
