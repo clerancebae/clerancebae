@@ -21,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clerancebae&show_icons=true&locale=en" alt="clerancebae" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clerancebae&" alt="clerancebae" /></p>
 
 
 <!--Hello, my name is Berke and I'm 21 years old. I have been interested in software for 5 years, and I am currently studying Software Engineering at Toros University. I graduated from Kocaeli University with an associate degree in computer programming.
