@@ -1,6 +1,6 @@
 # Hi 👋, I'm Clerance
 
-Hello, my name is Berke and I'm 21 years old. I have been interested in software for 3 years, and I am currently studying Software Engineering at Toros University. I graduated from Kocaeli University with an associate degree in computer programming.
+Hello, my name is Berke and I'm 21 years old. I have been interested in software for 5 years, and I am currently studying Software Engineering at Toros University. I graduated from Kocaeli University with an associate degree in computer programming.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=clerancebae&color=blue" alt="clerancebae"/>
