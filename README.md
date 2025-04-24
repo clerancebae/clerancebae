@@ -10,7 +10,7 @@ Hello, my name is Berke and I'm 21 years old. I have been interested in software
 <br>
    <a href="https://ionicabizau.github.io/github-profile-languages/api.html?clerancebae"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clerancebae&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
   <br>
- <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
+ <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
 </div>
   <!--<p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21pc7okfoaufu2gztbrzbjqkq&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
