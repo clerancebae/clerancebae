@@ -1,6 +1,6 @@
 # Hi 👋, I'm Clerance
 
-Hello, my name is Berke and I'm 20 years old. I have been interested in software for 3 years, and I am currently studying Software Engineering at Toros University. I graduated from Kocaeli University with an associate degree in computer programming.
+Hello, my name is Berke and I'm 21 years old. I have been interested in software for 3 years, and I am currently studying Software Engineering at Toros University. I graduated from Kocaeli University with an associate degree in computer programming.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=clerancebae&color=blue" alt="clerancebae"/>
@@ -25,7 +25,7 @@ Hello, my name is Berke and I'm 20 years old. I have been interested in software
 <a href="https://discord.com/users/419836743878180874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clerancebae" height="30" width="40" /></a>
 </p>
 
-## 💻 Languages and Tools I'm Interested In:
+/*## 💻 Languages and Tools I'm Interested In:
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -85,5 +85,5 @@ Hello, my name is Berke and I'm 20 years old. I have been interested in software
     <br>
     <img width="30px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-photoshop-imore-0.png" />
   </kbd>
-</p>
+</p>*/
 
