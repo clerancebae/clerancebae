@@ -12,7 +12,7 @@ Hello, my name is Berke and I'm 21 years old. I have been interested in software
   <br>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
 </div>
- <p align="center">
+  <!--<p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21pc7okfoaufu2gztbrzbjqkq&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
