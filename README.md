@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Berke a.k.a Clerance</h1>
 
 
-<h3 align="center">Hello, my name is Berke and I'm 21 years old. I have been interested in software for 5 years, and I am currently studying Software Engineering at Toros University. I graduated from Kocaeli University with an associate degree in computer programming.</h3>
+<h3 align="center">Hello, my name is Berke and I'm 21 years old. I have been interested in software for 5 years, and I am currently studying Software Engineering at Erciyes University. I graduated from Kocaeli University with an associate degree in computer programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerancebae&label=Profile%20views&color=0e75b6&style=flat" alt="clerancebae" /> </p>
 
