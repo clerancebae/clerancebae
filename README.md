@@ -1,110 +1,91 @@
-
-<h1 align="center">Hi 👋, I'm Berke a.k.a Clerance</h1>
-
-
-<h3 align="center">Hello, my name is Berke and I'm 22 years old. I have been interested in software for 5 years, and I am currently studying Software Engineering at Erciyes University. I graduated from Kocaeli University with an associate degree in computer programming.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clerancebae&label=Profile%20views&color=0e75b6&style=flat" alt="clerancebae" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/berkebae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkebae" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berke-kilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berke-kilic" height="30" width="40" /></a>
-<a href="https://instagram.com/berke_klc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berke_klc_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/clerancebae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="clerancebae" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clerancebae&show_icons=true&locale=en&layout=compact" alt="clerancebae" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clerancebae&show_icons=true&locale=en" alt="clerancebae" /></p>
-
-
-
-<!--Hello, my name is Berke and I'm 21 years old. I have been interested in software for 5 years, and I am currently studying Software Engineering at Toros University. I graduated from Kocaeli University with an associate degree in computer programming.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&background=00000000&center=true&vCenter=true&width=750&lines=>+System+Boot...+berke+a.k.a+clerancebae;>+Loading+Modules...+UAV_+IoT_+R%26D;>+AGH+Exchange+Protocol...+SUCCESS+(4.94+GPA);>+Status:+Ready_for_deployment" alt="Typing SVG" />
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=clerancebae&color=blue" alt="clerancebae"/>
-<br>
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/419836743878180874)](https://discord.com/users/419836743878180874)
-<br>
-   <a href="https://ionicabizau.github.io/github-profile-languages/api.html?clerancebae"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clerancebae&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
-  <br>
- <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=clerancebae&theme=highcontrast&hide_border=true">
+  <a href="https://linkedin.com/in/berke-kilic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kilic-berke@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.leetcode.com/clerancebae"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://discord.com/users/419836743878180874"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
-  <!--<p align="center">
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21pc7okfoaufu2gztbrzbjqkq&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
-</p>
 
+<br>
 
- <!--## 📞 Contact with me:
-<p style="display: inline-block;" align="center">
-<a href="https://www.instagram.com/clerancebae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clerancebae" height="30" width="40" /></a><a href="https://open.spotify.com/user/21pc7okfoaufu2gztbrzbjqkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="clerancebae" height="30" width="40" /></a> 
-<a href="https://open.spotify.com/artist/6CGsPYgRSVWoUeoH0rWaZx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="clerancebae" height="30" width="40" /></a>
-<a href="https://discord.com/users/419836743878180874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clerancebae" height="30" width="40" /></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">About me</h3>
+      <ul>
+        <li>📍 Software Engineering BSc. @Erciyes University.</li>
+         <li>📍Graduate Computer Programming ASc. @Kocaeli University.</li>
+        <li>🌍 Erasmus+ @ AGH University of Science & Technology <i>(GPA: 4.94/5.00)</i>.</li>
+        <li>🏆 NASA Space Apps Challenge 2025 - Local 1st Place & Global Nominee (Asteroid impact simulation).</li>
+        <li>🗣️ English (Adv.), German (Elem.), Spanish (Beg.).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">Experiences</h3>
+      <b>🚁 UAV Software Developer | VOLITANS</b><br>
+      <i>Oct 2025 - Ongoing</i>
+      <ul>
+        <li>Developing autonomous flight scripts using <b>MAVLink</b> & simulating systems in <b>Gazebo</b>.</li>
+      </ul>
+      <b>📡 R&D Intern (Data & IoT) | AGH University</b><br>
+      <i>Mar 2025 - Feb 2026</i>
+      <ul>
+        <li>Prototyped remote monitoring workflows and streamed sensor data to InfluxDB for research projects.</li>
+      </ul>
+      <b>⚙️ Test Automation Intern | Netaş</b><br>
+      <i>Sep 2025 - Dec 2025</i>
+      <ul>
+        <li>Engineered automated tests using <b>Java</b> and <b>Selenium</b> to improve quality assurance workflows.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 💻 Languages and Tools I'm Interested In:
+<hr>
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>💻</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
-    <img width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /> 
-    <img width="30px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" /> 
-    <img width="30px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
-  </kbd>
-  <kbd>
-    <kbd>🌐</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095765931218698311/5847f5bdcef1014c0b5e489c.png" />
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095765930992218193/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f637373332d6c6f676f2d383732343037353237342d7365656b6c6f676f2e636f6d2e706e67.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" />
-    <img width="30px" src="https://nodejs.org/static/images/logo.svg" />
-  </kbd>
-   <br>
-  <kbd>
-    <kbd>🔧</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png?20221004110509" />
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095769344719462461/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3633312f3732302f706e672d7472616e73706172656e742d65636c697073652d666f756e646174696f6e2d696e74656772617465642d646576656c6f706d656e742d656e7669726f.png" />
-    <img width="30px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_CE_256_2Qe5uEl.png"/>
-  </kbd>
-  <kbd>
-    <kbd>🔧</kbd>
-    <br>
-    <br>
-        <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095769345017262151/68747470733a2f2f70312e6869636c69706172742e636f6d2f707265766965772f3938312f3130312f3330322f736c65656b2d78702d736f6674776172652d6465762d632d69636f6e2e6a7067-removebg-preview.png" />
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095769345252131011/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3833322f3338362f706e672d7472616e73706172656e742d696e74656c6c696a2d77656273746f726d2d6d61636f732d6269677375722d69636f6e2e706e67-removebg-preview.png" />
-    <img width="30px" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" />
-  </kbd>
-   <br>
-   <kbd>
-    <kbd>⚙️</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767682630037645/18133-removebg-preview.png" />
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767256778153995/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f482f6865726f6b752d6c6f676f2d423737344137383636372d7365656b6c6f676f2e636f6d2e706e67.png" />
-  </kbd>
-   <kbd>
-    <kbd>🛢</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095766895237550203/image_2023-04-12_204606130-removebg-preview.png" />
-    <img width="30px" src="https://cdn.discordapp.com/attachments/1056653734236655658/1095767037072126043/image_2023-04-12_204638775-removebg-preview.png" />
-  </kbd>
-   <br>
-  <kbd>
-    <kbd>🖥</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-photoshop-imore-0.png" />
-  </kbd>
-</p>-->
+<h3 align="left">🧪 Projects</h3>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎮 AquaVision </b><br>
+      Developed a dichoptic training-based therapeutic game using <b>Java and Swing</b> to support clinical treatment of Amblyopia (lazy eye). Features progressive difficulty and a real-time calibration system for binocular fusion mechanics.
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h3 align="center">🛠️ Skills </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-F3702A?style=flat-square&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modbus-000000?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAVLink-039BE5?style=flat-square&logo=drone&logoColor=white" />
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clerancebae&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerancebae&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
