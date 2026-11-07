@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&background=00000000&center=true&vCenter=true&width=750&lines=>+System+Boot...+berke+a.k.a+clerancebae;>+Loading+Modules...+UAV_+IoT_+R%26D;>+AGH+Exchange+Protocol...+SUCCESS+(4.94+GPA);>+Status:+Ready_for_deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&background=00000000&center=true&vCenter=true&width=750&lines=>+System+Boot...+berke+a.k.a+[...]" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
       <h3 align="left">About me</h3>
       <ul>
         <li>📍 Software Engineering BSc. @Erciyes University.</li>
-         <li>📍Graduate Computer Programming ASc. @Kocaeli University.</li>
+        <li>📍 Graduate Computer Programming ASc. @Kocaeli University.</li>
         <li>🌍 Erasmus+ @ AGH University of Science & Technology <i>(GPA: 4.94/5.00)</i>.</li>
         <li>🏆 NASA Space Apps Challenge 2025 - Local 1st Place & Global Nominee (Asteroid impact simulation).</li>
         <li>🗣️ English (Adv.), German (Elem.), Spanish (Beg.).</li>
@@ -51,7 +51,7 @@
   <tr>
     <td width="50%" valign="top">
       <b>🎮 AquaVision </b><br>
-      Developed a dichoptic training-based therapeutic game using <b>Java and Swing</b> to support clinical treatment of Amblyopia (lazy eye). Features progressive difficulty and a real-time calibration system for binocular fusion mechanics.
+      Developed a dichoptic training-based therapeutic game using <b>Java and Swing</b> to support clinical treatment of Amblyopia (lazy eye). Features progressive difficulty and a real-time calibration system for visual therapy.
     </td>
   </tr>
 </table>
@@ -78,14 +78,14 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clerancebae&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clerancebae&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerancebae&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
