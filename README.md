@@ -78,14 +78,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clerancebae&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerancebae&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clerancebae/clerancebae/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+ <img src="https://ghstats.dev/api/card?username=clerancebae&theme=midnight&border_radius=22.5" alt="GitHub Stats Card" />
+  <br>
+<img src="https://ghstats.dev/api/langs?username=clerancebae&theme=midnight" alt="Top Languages" />
 </div>
